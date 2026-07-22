@@ -99,12 +99,5 @@ p[epub|type~="z3998:salutation"]{
 /* Chapter 23 newspaper article */
 #chapter-23 blockquote header{
 	font-variant: small-caps;
-	font-weight: bold;
-	margin: 1em;
-	text-align: center;
-}
-
-#chapter-23 blockquote header ~ p{
-	text-align: justify;
 }
 /* End ch 23 article */
