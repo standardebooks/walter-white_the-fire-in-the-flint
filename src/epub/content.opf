@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>An optimistic Black physician returns to his Georgia hometown where he must grapple with racial tensions he thought had faded.</dc:abstract>
+		<meta property="schema:abstract">An optimistic Black physician returns to his Georgia hometown where he must grapple with racial tensions he thought had faded.</meta>
 		<dc:description>
 			&lt;p&gt;Set in the Jim Crow South following World War I, &lt;i&gt;The Fire in the Flint&lt;/i&gt; follows Dr. Kenneth Harper, a young, sometimes naive Black physician and war veteran. After graduating from a Northern medical school, he returns to his hometown of Central City, Georgia to start a practice. He arrives believing he can avoid discrimination by simply not getting involved with the town’s racial affairs—but he quickly finds out otherwise, and must confront the reality of living in a place where systemic racism and the Ku Klux Klan run rampant.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Fire in the Flint&lt;/i&gt;, published in 1924, is American civil rights activist &lt;a href="https://standardebooks.org/ebooks/walter-white"&gt;Walter White’s&lt;/a&gt; debut novel. Written during the height of the Harlem Renaissance—a period where African American literature flourished—White sought to promote anti-racist themes and showcase the oppression Black people faced in the early twentieth-century.&lt;/p&gt;
