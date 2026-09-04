@@ -33,19 +33,19 @@
 		<dc:subject id="subject-1">Bildungsromans</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2003003087</meta>
-		<dc:subject id="subject-2">Young men -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Young men--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008114024</meta>
 		<dc:subject id="subject-3">Medical fiction</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh99014359</meta>
-		<dc:subject id="subject-4">Race relations -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Race relations--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008110343</meta>
-		<dc:subject id="subject-5">Georgia -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Georgia--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008105044</meta>
-		<dc:subject id="subject-6">African American physicians -- Fiction</dc:subject>
+		<dc:subject id="subject-6">African American physicians--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
