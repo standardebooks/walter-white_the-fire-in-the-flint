@@ -77,6 +77,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Neal Caren</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Caren, Neal</meta>
+		<link href="https://nealcaren.org/" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Nathaniel Woo</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Woo, Nathaniel</meta>
